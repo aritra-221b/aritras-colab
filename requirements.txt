@@ -1,0 +1,15 @@
+# Aritras-Colab — Dependencies
+# Tested on Google Colab (Python 3.12)
+
+# --- Notebook 1: UnderstandingGenai.ipynb ---
+google-generativeai
+
+# --- Notebook 2: SimpleTraditionalRAG.ipynb ---
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+chromadb
+pypdf
+python-dotenv
