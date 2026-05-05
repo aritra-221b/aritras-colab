@@ -1,10 +1,10 @@
 # Aritra's Colab
 
-A practical GenAI learning repository focused on two tracks:
-- Core Gemini usage patterns and configuration
-- A beginner-friendly, traditional Retrieval-Augmented Generation (RAG) workflow with LangChain and Chroma
+A beginner-focused learning codelab repository built as hands-on notebooks.
 
-This repository is designed as an educational codelab environment where each notebook can be run independently in Google Colab.
+These notebooks are designed to help learners understand and practice multiple topics across modern AI workflows, including GenAI fundamentals, Gemini model usage, prompt and safety configuration, and traditional Retrieval-Augmented Generation (RAG) pipelines.
+
+Each notebook can be run independently in Google Colab, making the repository easy to use for guided self-learning and experimentation.
 
 ## Author
 
